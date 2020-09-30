@@ -1,2 +1,2 @@
 # Calculator
-Using HTML/C++/JavaScript
+Using HTML/Css/JavaScript
